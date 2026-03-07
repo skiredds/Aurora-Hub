@@ -1,52 +1,64 @@
 # 🌌 Aurora Hub | v1.10.0.0
-> **Lethal, high-speed, and optimized suite for TSB & Sandbox domination.**
+> **The ultimate powerhouse for Jujutsu Shenanigans & Sandbox domination. Fast. Lethal. Optimized.**
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.10.0.0-blue)
+![Security](https://img.shields.io/badge/Security-Encrypted-red)
 ![Platform](https://img.shields.io/badge/Platform-PC%20%2F%20Mobile-orange)
 
 ---
 
-## ⚡ Main Features
+## ⚡ Key Capabilities
 
-### 🌪️ Advanced Fling
-* **Multi-Target Logic:** Strike multiple players simultaneously.
-* **Comma Separation:** Input targets like `Player1, Player2, Player3`.
-* **High-Velocity Rotation:** Maximum power for instant voiding.
+### 🌪️ Absolute Domination
+* **Advanced Multi-Fling:** Obliterate multiple enemies at once. Supports comma-separated targets for mass clearing.
+* **Velocity Speedhack:** High-speed movement with customizable increments.
+* **Instant Teleportation:** Teleport to players, waypoints, or key locations with zero delay.
+* **Combat Assistance:** Enhanced mobility tools for superior positioning during fights.
 
-### 🚀 Mobility & Speed
-* **Custom Speedhack:** Precision velocity control without rubber-banding.
-* **Instant Teleport:** Zero-delay movement to players or key locations.
-* **Safe-Transport:** Built-in checks to prevent dying during high-speed travel.
+### 🌍 World & Performance
+* **Anti-Void Protection:** Absolute immunity to falling out of the map. 
+* **Global Fastmode:** Instant FPS boost. Strips the world of heavy materials and textures for maximum performance.
+* **Environment Control:** Full control over game time and world lighting.
+* **Fullbright:** Maximum visibility in dark areas or night-time cycles.
 
-### 🌍 World Manipulation
-* **Anti-Void (FPDH):** Immune to void death via **NaN (0/0)** logic.
-* **Fastmode:** Extreme FPS boost by stripping materials and textures.
-* **Time Control:** Real-time lighting manipulation for better visibility.
-* **Fullbright:** Permanent illumination for dark maps.
+### 🛠️ Script Architecture
+* **Clean Codebase:** 100% comment-free and bloat-free source code for lightning-fast execution.
+* **Rayfield Interface:** Modern, draggable, and intuitive UI with tab-based navigation.
+* **Auto-Optimization:** Automatically adjusts settings for your device's capabilities.
 
 ---
 
-## 🖥️ System Requirements
+## 🖥️ Detailed System Requirements
 
-| Component | Minimum (Potato) | Recommended (Stable) |
+| Specification | Minimum (Potato) | Recommended (Pro) |
 | :--- | :--- | :--- |
-| **OS** | Windows 7 / Android 8+ | Windows 10-11 / Android 10+ |
-| **RAM** | 4 GB | 8 GB+ |
-| **GPU** | Integrated | Dedicated (GTX 1050+) |
-| **Executor** | Solara / Mobile | Wave / Synapse Z |
+| **Operating System** | Windows 7 / Android 8.0+ | Windows 10-11 / Android 11+ |
+| **Memory (RAM)** | 4 GB | 8 GB - 16 GB |
+| **Processor (CPU)** | Dual-Core 2.5GHz | Quad-Core 3.5GHz+ |
+| **Graphics (GPU)** | Integrated Graphics | Dedicated (GTX 1050 / RX 560+) |
+| **Executor Level** | Level 7 (Stable) | Level 8 (High-End) |
+| **Storage** | 100 MB Free Space | 500 MB Free Space |
 
-> [!CAUTION]
-> **Performance Note:** Multi-Fling processing for 5+ targets may cause frame drops on low-end CPUs. Use **Fastmode** to mitigate lag.
+---
+
+## 🔵 Version 1.10.0.0 — Change Log
+* **[NEW]** Complete migration to `major.minor.patch.fix` versioning.
+* **[NEW]** Multi-target support for Fling mechanics.
+* **[UPDATED]** World Tab overhaul with integrated Lighting & Performance tools.
+* **[FIXED]** Input lag during high-speed teleportation.
+* **[REMOVED]** Unstable legacy tabs and redundant variables.
 
 ---
 
-## ⚠️ Disclaimer
-*This script is for educational purposes only. Use it at your own risk. We are not responsible for any bans or actions taken against your account.*
+## ⚠️ Important Information
+* **Usage:** This software is designed for performance testing and educational purposes. 
+* **Risk:** The developers of **Aurora Hub** are not responsible for any actions taken against your account.
+* **Optimization:** For the best experience, keep your in-game Roblox graphics at level **1-3** when using **Fastmode**.
 
 ---
-### 🔗 Links
-* **Official Repo:** [Aurora-Hub](https://github.com/skiredds/Aurora-Hub/tree/main)
-* **History:** Browse the `/changelogs` directory for older versions.
+### 🔗 Project Resources
+* **Source Code:** [Aurora-Hub Repository](https://github.com/skiredds/Aurora-Hub/tree/main)
+* **Archive:** Access full history in the `/changelogs` directory.
 
-© 2026 **Aurora Project** | Built for performance.
+© 2026 **Aurora Project** | Redefining Scripting Excellence.
