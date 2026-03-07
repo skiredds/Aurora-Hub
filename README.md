@@ -34,7 +34,7 @@
 | **OS** | Windows 7 / Android 8+ | Windows 10-11 / Android 10+ |
 | **RAM** | 4 GB | 8 GB+ |
 | **GPU** | Integrated | Dedicated (GTX 1050+) |
-| **Executor** | Solara / Celery / Mobile | Wave / Synapse Z |
+| **Executor** | Solara / Mobile | Wave / Synapse Z |
 
 > [!CAUTION]
 > **Performance Note:** Multi-Fling processing for 5+ targets may cause frame drops on low-end CPUs. Use **Fastmode** to mitigate lag.
