@@ -42,15 +42,6 @@
 
 ---
 
-## 🔵 Version 1.10.0.0 — Change Log
-* **[NEW]** Complete migration to `major.minor.patch.fix` versioning.
-* **[NEW]** Multi-target support for Fling mechanics.
-* **[UPDATED]** World Tab overhaul with integrated Lighting & Performance tools.
-* **[FIXED]** Input lag during high-speed teleportation.
-* **[REMOVED]** Unstable legacy tabs and redundant variables.
-
----
-
 ## ⚠️ Important Information
 * **Usage:** This software is designed for performance testing and educational purposes. 
 * **Risk:** The developers of **Aurora Hub** are not responsible for any actions taken against your account.
