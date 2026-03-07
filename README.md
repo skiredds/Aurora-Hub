@@ -3,7 +3,7 @@
 Below are the technical specifications required for the script to function optimally.
 
 ### 🛠️ Execution Requirements
-* **Executor:** Any Level 7+ Executor (e.g., Solara, Wave, Celery, or mobile equivalents).
+* **Executor:** Any Level 7+ Executor (e.g., Solara, Wave, or mobile equivalents).
 * **Core Functions:** Your executor must support `game:HttpGet` and `setclipboard`.
 * **Libraries:** Full support for `task` and `debug` is recommended for stable logic.
 
