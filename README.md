@@ -27,14 +27,6 @@
 
 ---
 
-## 🔵 Fixed & Improved (v1.10.0.0)
-* **[FIXED]** Fling input logic (Multiple targets support).
-* **[CHANGED]** Versioning system moved to `major.minor.patch.fix`.
-* **[OPTIMIZED]** Full source code cleanup (Removed all comments/water).
-* **[MOVED]** Fullbright integrated into World Tab for better UX.
-
----
-
 ## 🖥️ System Requirements
 
 | Component | Minimum (Potato) | Recommended (Stable) |
