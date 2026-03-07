@@ -1,9 +1,8 @@
 # 🌌 Aurora Hub | v1.10.0.0
-> **The ultimate powerhouse for Jujutsu Shenanigans & Sandbox domination. Fast. Lethal. Optimized.**
+> **The ultimate powerhouse for TSB & Sandbox domination. Fast. Lethal. Optimized.**
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.10.0.0-blue)
-![Security](https://img.shields.io/badge/Security-Encrypted-red)
 ![Platform](https://img.shields.io/badge/Platform-PC%20%2F%20Mobile-orange)
 
 ---
