@@ -32,7 +32,7 @@
 To run the script, use this loadstring:
 
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/skiredds/Aurora-Hub/refs/heads/main/aurorahub.lua](https://raw.githubusercontent.com/skiredds/Aurora-Hub/refs/heads/main/aurorahub.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skiredds/Aurora-Hub/refs/heads/main/aurorahub.lua"))()
 ```
 
 ---
