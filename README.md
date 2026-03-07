@@ -1,5 +1,5 @@
 # 🌌 Aurora Hub | v1.10.0.0
-> **Lethal, high-speed, and optimized suite for Jujutsu Shenanigans & Sandbox domination.**
+> **Lethal, high-speed, and optimized suite for TSB & Sandbox domination.**
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.10.0.0-blue)
