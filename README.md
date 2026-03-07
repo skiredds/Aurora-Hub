@@ -7,48 +7,60 @@
 
 ---
 
-## ⚡ Key Capabilities
+## 🌪️ Features
 
-### 🌪️ Absolute Domination
-* **Advanced Multi-Fling:** Obliterate multiple enemies at once. Supports comma-separated targets for mass clearing.
-* **Velocity Speedhack:** High-speed movement with customizable increments.
-* **Instant Teleportation:** Teleport to players, waypoints, or key locations with zero delay.
-* **Combat Assistance:** Enhanced mobility tools for superior positioning during fights.
+### ⚔️ Domination
+* **Multi-Fling:** Obliterate multiple enemies simultaneously.
+* **Velocity Speedhack:** High-speed movement control.
+* **Instant Teleportation:** Zero-delay travel to players/locations.
+* **Combat Assistance:** Enhanced mobility for TSB fights.
 
-### 🌍 World & Performance
-* **Anti-Void Protection:** Absolute immunity to falling out of the map. 
-* **Global Fastmode:** Instant FPS boost. Strips the world of heavy materials and textures for maximum performance.
-* **Environment Control:** Full control over game time and world lighting.
-* **Fullbright:** Maximum visibility in dark areas or night-time cycles.
+### 🌍 World & Optimization
+* **Anti-Void:** Absolute immunity to falling out of the map. 
+* **Global Fastmode:** Instant FPS boost by stripping textures.
+* **Environment Control:** Full control over lighting and time.
+* **Fullbright:** Permanent visibility in dark areas.
 
-### 🛠️ Script Architecture
-* **Clean Codebase:** 100% comment-free and bloat-free source code for lightning-fast execution.
-* **Rayfield Interface:** Modern, draggable, and intuitive UI with tab-based navigation.
-* **Auto-Optimization:** Automatically adjusts settings for your device's capabilities.
+### 🛠️ Architecture
+* **Clean Code:** 100% comment-free source for fast execution.
+* **Rayfield UI:** Modern, draggable, and intuitive interface.
 
 ---
 
-## 🖥️ Detailed System Requirements
+## 📥 Execution
+
+To run the script, use this loadstring:
+
+```lua
+loadstring(game:HttpGet("[https://raw.githubusercontent.com/skiredds/Aurora-Hub/refs/heads/main/aurorahub.lua](https://raw.githubusercontent.com/skiredds/Aurora-Hub/refs/heads/main/aurorahub.lua)"))()
+```
+
+---
+
+## 🔑 Key System
+> [!IMPORTANT]
+> **Access is restricted.** Keys can ONLY be obtained by **contacting the developer directly**. No public keys or third-party generators.
+
+---
+
+## 🖥️ System Requirements
 
 | Specification | Minimum (Potato) | Recommended (Pro) |
 | :--- | :--- | :--- |
-| **Operating System** | Windows 7 / Android 8.0+ | Windows 10-11 / Android 11+ |
-| **Memory (RAM)** | 4 GB | 8 GB - 16 GB |
-| **Processor (CPU)** | Dual-Core 2.5GHz | Quad-Core 3.5GHz+ |
-| **Graphics (GPU)** | Integrated Graphics | Dedicated (GTX 1050 / RX 560+) |
-| **Executor Level** | Level 7 (Stable) | Level 8 (High-End) |
-| **Storage** | 100 MB Free Space | 500 MB Free Space |
+| **OS** | Windows 7 / Android 8.0+ | Windows 10-11 / Android 11+ |
+| **RAM** | 4 GB | 8 GB - 16 GB |
+| **GPU** | Integrated Graphics | Dedicated (GTX 1050+) |
+| **Executor** | Level 7 (Stable) | Level 8 (High-End) |
 
 ---
 
 ## ⚠️ Important Information
-* **Usage:** This software is designed for performance testing and educational purposes. 
-* **Risk:** The developers of **Aurora Hub** are not responsible for any actions taken against your account.
-* **Optimization:** For the best experience, keep your in-game Roblox graphics at level **1-3** when using **Fastmode**.
+* **Risk:** Developers are not responsible for any bans.
+* **Optimization:** Keep in-game graphics at **1-3** when using **Fastmode**.
 
 ---
-### 🔗 Project Resources
-* **Source Code:** [Aurora-Hub Repository](https://github.com/skiredds/Aurora-Hub/tree/main)
-* **Archive:** Access full history in the `/changelogs` directory.
+### 🔗 Links
+* **Raw Script:** [aurorahub.lua](https://raw.githubusercontent.com/skiredds/Aurora-Hub/refs/heads/main/aurorahub.lua)
+* **Repository:** [Aurora-Hub](https://github.com/skiredds/Aurora-Hub/tree/main)
 
-© 2026 **Aurora Project** | Redefining Scripting Excellence.
+© 2026 **Aurora Project**
